@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "title": "Player Unknowns Battle Ground: PUBG",
+    "coverPhoto": "https://c4.wallpaperflare.com/wallpaper/169/715/816/pubg-playerunknowns-battlegrounds-2018-games-games-wallpaper-preview.jpg",
+    "category": "FPS",
+    "downloadLink": "https://www.pubgmobile.com/en-US/home.shtml",
+    "description": "PUBG Mobile is a thrilling and fast-paced battle royale game that challenges players to survive against up to 100 opponents in a large, dynamic map environment. Players parachute onto expansive battlegrounds with nothing but basic clothing and a sense of strategy, immediately starting a race for survival, weapons, and resources. Each match requires careful planning, tactical movement, and quick reflexes as the safe zone gradually shrinks, forcing combatants closer together. Players can scavenge for an array of weapons ranging from assault rifles to sniper rifles, grenades, and melee options, while also collecting medical supplies, armor, and vehicles to increase their chances of survival. PUBG Mobile offers a variety of maps, each with unique terrain, weather conditions, and urban or rural environments, adding layers of strategy to the gameplay. Team-based modes allow squads to coordinate attacks, revive teammates, and execute tactical maneuvers to dominate opponents. The game includes realistic ballistics, audio cues, and immersive graphics that make every encounter intense and adrenaline-filled. Regular seasonal events, cosmetic skins, new weapons, vehicles, and limited-time modes keep the experience fresh and engaging. PUBG Mobile emphasizes skill, adaptability, and strategic thinking, making it a competitive and rewarding experience for players who enjoy tactical FPS gameplay. Beyond combat, the social aspect of PUBG Mobile encourages players to join clans, make friends, and participate in global tournaments. The combination of strategic planning, fast action, and social interaction makes PUBG Mobile one of the most popular and addictive battle royale games available today, attracting millions of players worldwide who seek both excitement and a test of their tactical prowess.",
+    "ratings": "4.9",
+    "developer": "Krafton"
+  },
+  {
+    "id": "2",
+    "title": "Call of Duty: Mobile",
+    "coverPhoto": "https://cdn-www.bluestacks.com/bs-images/Call-of-Duty_Anniversary_EN_1.png",
+    "category": "FPS",
+    "downloadLink": "https://www.callofduty.com/mobile",
+    "description": "Call of Duty: Mobile delivers a fast-paced and highly immersive first-person shooter experience, bringing the iconic Call of Duty franchise to mobile devices with remarkable fidelity and fluidity. Players can enjoy multiple gameplay modes, including traditional multiplayer, battle royale, and seasonal events with unique challenges and rewards. In multiplayer mode, players can engage in strategic team battles, capture points, and dominate maps with a variety of customizable weapons and loadouts. The battle royale mode pits players against dozens of others in expansive arenas, requiring survival tactics, map awareness, and smart engagement choices to emerge victorious. Call of Duty: Mobile provides highly detailed graphics, realistic sound effects, and smooth controls that simulate the console-level gaming experience. Players can unlock a vast collection of weapons, attachments, and skins, tailoring their loadouts to suit playstyle and strategy. Additionally, frequent updates introduce new maps, modes, seasonal events, and competitive tournaments, keeping the gameplay fresh and challenging. The game emphasizes strategic teamwork, precision aiming, fast reflexes, and communication, rewarding players who combine skill with tactical planning. Beyond combat, Call of Duty: Mobile fosters social interaction through clans, friends, and multiplayer matchmaking, enabling players to connect, cooperate, and compete at a global level. With an emphasis on intense action, strategic depth, and visual realism, Call of Duty: Mobile continues to be a leading FPS mobile game, attracting millions of players seeking competitive excitement, adrenaline-fueled gameplay, and a rich online community experience.",
+    "ratings": "4.9",
+    "developer": "Activision"
+  },
+  {
+    "id": "3",
+    "title": "Clash of Clans",
+    "coverPhoto": "https://akm-img-a-in.tosshub.com/sites/itgaming/resources/202501/screenshot-2025-01-01-161305010125041826.png",
+    "category": "Strategy",
+    "downloadLink": "https://supercell.com/en/games/clashofclans/",
+    "description": "Clash of Clans is an engaging and strategic mobile game that places players in control of a village, where they can build, defend, and expand their empire while training an army to conquer opponents. Players begin with a small village and limited resources, but through careful planning, construction, and management, they can develop powerful structures, defenses, and units. The game features a wide variety of troops, including barbarians, archers, giants, wizards, and heroes, each with unique abilities and strategic applications. Players must balance resource gathering, defense planning, and troop training to ensure survival against enemy attacks. Clan-based gameplay allows players to join forces with friends and other players worldwide, participate in Clan Wars, and compete in global events that test both individual skill and team coordination. Clash of Clans emphasizes tactical thinking, adaptability, and timing, as players decide the optimal deployment of units, the placement of defensive structures, and when to attack or defend. The game includes regular updates, new heroes, troops, spells, and challenges that keep gameplay dynamic and exciting. Social interaction, strategy, and progression create a highly addictive experience, where players are constantly motivated to improve their villages, increase their power, and achieve higher rankings. Clash of Clans’ combination of deep strategy, engaging visuals, competitive events, and cooperative play makes it one of the most successful and enduring strategy games in mobile gaming history, captivating millions of players around the world with endless tactical possibilities and immersive gameplay.",
+    "ratings": "4.3",
+    "developer": "Supercell"
+  },
+  {
+    "id": "4",
+    "title": "Genshin Impact",
+    "coverPhoto": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_GenshinImpact_miHoYoLimited_S1_2560x1440-91c6cd7312cc2647c3ebccca10f30399",
+    "category": "Adventure RPG",
+    "downloadLink": "https://genshin.hoyoverse.com/en/",
+    "description": "Genshin Impact is an open-world action RPG developed by HoYoverse that invites players to explore the breathtaking fantasy world of Teyvat. Players take on the role of the Traveler, a mysterious adventurer searching for their lost sibling while uncovering the secrets of seven nations, each governed by a unique elemental Archon. The game features real-time combat that integrates elemental powers like Pyro, Hydro, Electro, Cryo, Anemo, Geo, and Dendro to create dynamic and visually spectacular battles. Players can switch between multiple characters, each with distinct skills, fighting styles, and personalities. The expansive world of Teyvat offers rich exploration, from snowy mountains and lush forests to bustling cities and hidden ruins. With frequent updates, seasonal events, and new characters introduced through banners, Genshin Impact keeps its community engaged with fresh content. Its combination of storytelling, artistry, music, and immersive gameplay makes it one of the most critically acclaimed RPGs in the world.",
+    "ratings": "4.7",
+    "developer": "HoYoverse"
+  },
+  {
+    "id": "5",
+    "title": "Free Fire MAX",
+    "coverPhoto": "https://i.ytimg.com/vi/IGEc06Eypkg/maxresdefault.jpg",
+    "category": "Battle Royale",
+    "downloadLink": "https://ff.garena.com/en/",
+    "description": "Free Fire MAX is an enhanced version of the popular battle royale Free Fire, delivering ultra-HD graphics and immersive gameplay designed for high-performance devices. Up to 50 players parachute onto a remote island, searching for weapons, gear, and vehicles while striving to be the last survivor. With smooth controls and fast-paced 10-minute matches, Free Fire MAX provides intense combat experiences ideal for both casual and competitive players. Its unique character system allows players to choose from a diverse roster, each offering special abilities that can turn the tide of battle. The game includes a variety of modes like Clash Squad, ranked matches, and custom rooms for friends to play together. With frequent events, stylish cosmetics, and cross-play support with Free Fire, this version enhances visuals and animations without sacrificing performance. The game emphasizes quick strategy, teamwork, and adaptability, making it one of the most accessible and exciting mobile battle royales available.",
+    "ratings": "4.8",
+    "developer": "Garena"
+  },
+  {
+    "id": "6",
+    "title": "Valorant",
+    "coverPhoto": "https://i0.wp.com/www.smartprix.com/bytes/wp-content/uploads/2023/07/4-12.jpg?fit=1600%2C900&ssl=1",
+    "category": "FPS Tactical Shooter",
+    "downloadLink": "https://playvalorant.com/",
+    "description": "Valorant is a competitive 5v5 tactical shooter developed by Riot Games, combining precise gunplay with unique agent abilities for deeply strategic combat. Each match pits two teams against each other — one attacking and one defending — across a series of rounds, where players must plant or defuse the spike to win. Valorant’s agents come from various global backgrounds and possess distinct powers that enhance tactical possibilities, from smoke screens and walls to recon drones and healing. The game demands precision aiming, communication, and coordination, rewarding both individual skill and team synergy. Its blend of CS:GO-style gun mechanics and hero-based abilities creates a unique gameplay balance that appeals to both casual and competitive players. Frequent updates introduce new agents, maps, and gameplay tweaks to keep the meta fresh. With its polished visuals, crisp sound design, and esports-ready format, Valorant has quickly become one of the leading tactical shooters in the world.",
+    "ratings": "4.8",
+    "developer": "Riot Games"
+  }
+]
