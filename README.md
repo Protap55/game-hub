@@ -2,7 +2,7 @@ Project name: Game-Hub
 
 Active link: https://github.com/programming-hero-web-course2/b12-a9-firesheild-Protap55
 
-live-link: my-game-hub-project-9.netlify.app
+live-link: games-hub-online.netlify.app
 
 
 Project Summary
