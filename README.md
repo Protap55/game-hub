@@ -47,13 +47,17 @@ Follow these steps to run **Game-Hub** on your local machine:
 git clone https://github.com/Protap55/game-hub.git
 
 2. **Navigate into the project folder**
+```bash
 cd game-hub
 
 3. **Install dependencies**
+```bash
 npm install
 
 4. **Start the development server**
+```bash
 npm start
 5. **Open in Browser**
+```bash
 Go to http://localhost:3000
 
