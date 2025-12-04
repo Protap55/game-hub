@@ -1,0 +1,102 @@
+[
+  {
+    "id": "1",
+    "title": "Player Unknowns Battle Ground: PUBG",
+    "coverPhoto": "https://c4.wallpaperflare.com/wallpaper/169/715/816/pubg-playerunknowns-battlegrounds-2018-games-games-wallpaper-preview.jpg",
+    "category": "FPS",
+    "downloadLink": "https://www.pubgmobile.com/en-US/home.shtml",
+    "description": "PUBG Mobile is a thrilling battle royale game...",
+    "ratings": "4.9",
+    "developer": "Krafton"
+  },
+  {
+    "id": "2",
+    "title": "Call of Duty: Mobile",
+    "coverPhoto": "https://cdn-www.bluestacks.com/bs-images/Call-of-Duty_Anniversary_EN_1.png",
+    "category": "FPS",
+    "downloadLink": "https://www.callofduty.com/mobile",
+    "description": "Call of Duty: Mobile delivers fast-paced FPS gameplay...",
+    "ratings": "4.9",
+    "developer": "Activision"
+  },
+  {
+    "id": "3",
+    "title": "Clash of Clans",
+    "coverPhoto": "https://akm-img-a-in.tosshub.com/sites/itgaming/resources/202501/screenshot-2025-01-01-161305010125041826.png",
+    "category": "Strategy",
+    "downloadLink": "https://supercell.com/en/games/clashofclans/",
+    "description": "Clash of Clans is an engaging and strategic mobile game...",
+    "ratings": "4.3",
+    "developer": "Supercell"
+  },
+  {
+    "id": "4",
+    "title": "Candy Crush Saga",
+    "coverPhoto": "https://store-images.s-microsoft.com/image/apps.4801.13510798882606697.e88bafb0-a5c4-483c-aade-8dd10bf570ee.5497699b-29f1-41ec-82c4-3283e9182afc",
+    "category": "Puzzle",
+    "downloadLink": "https://king.com/game/candycrush",
+    "description": "Candy Crush Saga is a match-3 puzzle game...",
+    "ratings": "4.2",
+    "developer": "King"
+  },
+  {
+    "id": "5",
+    "title": "Clash Royale",
+    "coverPhoto": "https://supercell.com/images/8654bffbaa77efb91243d3706b739c25/og_clashroyale.d235f90b.webp",
+    "category": "Strategy",
+    "downloadLink": "https://supercell.com/en/games/clashroyale/",
+    "description": "Clash Royale combines card collection and tower defense...",
+    "ratings": "4.4",
+    "developer": "Supercell"
+  },
+  {
+    "id": "6",
+    "title": "Minecraft",
+    "coverPhoto": "https://www.funkidslive.com/wp-content/uploads/2021/12/top-10-minecraft.png",
+    "category": "Adventure",
+    "downloadLink": "https://www.minecraft.net/en-us/",
+    "description": "Minecraft is a sandbox game where players can build and explore...",
+    "ratings": "4.8",
+    "developer": "Mojang"
+  },
+  {
+    "id": "7",
+    "title": "Fortnite",
+    "coverPhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG0dvmG_WFra849HEjV-mH8ibhjrNliZRlPQ&s",
+    "category": "Battle Royale",
+    "downloadLink": "https://www.epicgames.com/fortnite/en-US/home",
+    "description": "Fortnite is a battle royale game with building mechanics...",
+    "ratings": "4.3",
+    "developer": "Epic Games"
+  },
+  {
+    "id": "8",
+    "title": "Among Us",
+    "coverPhoto": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/945360/capsule_616x353.jpg?t=1757444903",
+    "category": "Social",
+    "downloadLink": "https://innersloth.com/gameAmongUs.php",
+    "description": "Among Us is a multiplayer social deduction game...",
+    "ratings": "4.1",
+    "developer": "InnerSloth"
+  },
+  {
+    "id": "9",
+    "title": "Genshin Impact",
+    "coverPhoto": "https://mmoculture.com/wp-content/uploads/2020/03/Genshin-Impact-image-new-1.png",
+    "category": "RPG",
+    "downloadLink": "https://genshin.mihoyo.com/",
+    "description": "Genshin Impact is an open-world action RPG...",
+    "ratings": "4.7",
+    "developer": "miHoYo"
+  },
+  {
+    "id": "10",
+    "title": "Roblox",
+    "coverPhoto": "https://i0.wp.com/www.techdigest.tv/wp-content/uploads/2020/02/roblox.jpg?ssl=1",
+    "category": "Adventure",
+    "downloadLink": "https://www.roblox.com/",
+    "description": "Roblox is a game platform and game creation system...",
+    "ratings": "4.4",
+    "developer": "Roblox Corporation"
+  }
+]
